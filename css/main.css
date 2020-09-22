@@ -21,3 +21,10 @@ header {
   grid-area: header;
   padding: 0;
 }
+
+body {
+  display: grid;
+  margin: 0;
+  padding: 1rem;
+  background-color: #f2f1ed;
+}

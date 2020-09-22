@@ -17,4 +17,7 @@ img {
 header {
   /* Remove the <header> box and allow us to directly apply header’s children to the grid. */
   display: contents;
+  margin: 1rem;
+  grid-area: header;
+  padding: 0;
 }

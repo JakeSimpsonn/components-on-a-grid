@@ -59,3 +59,11 @@ ul {
   display: flex;
   justify-content: flex-end;
 }
+
+ul li {
+  padding: .75rem;
+  display: inline;
+  font-family: "Patua One", sans-serif;
+  text-decoration: none;
+  color: #444;
+}

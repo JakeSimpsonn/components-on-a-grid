@@ -67,3 +67,13 @@ ul li {
   text-decoration: none;
   color: #fff;
 }
+
+p {
+  margin: .25em;
+  padding: 0;
+}
+
+a {
+  color: #fff;
+  font-size: 2rem;
+}

@@ -27,6 +27,11 @@ body {
   margin: 0;
   padding: 1rem;
   background-color: #f2f1ed;
+  grid-template-areas: "header header"
+    "header header"
+    "figure figure";
+  grid-template-rows: 1fr;
+  grid-template-columns: 2fr;
 }
 
 h2 {

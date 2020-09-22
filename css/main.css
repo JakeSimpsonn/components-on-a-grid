@@ -28,3 +28,16 @@ body {
   padding: 1rem;
   background-color: #f2f1ed;
 }
+
+h2 {
+  font-family: "Patua One", sans-serif;
+  font-weight: bold;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  color: #30658d;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+}
